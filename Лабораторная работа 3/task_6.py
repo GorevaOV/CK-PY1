@@ -10,3 +10,4 @@ for i, c_val in enumerate(list_numbers): # для i-го индекса и со�
 
 list_numbers[m_ind], list_numbers[i] = list_numbers[i], list_numbers[m_ind] # меняем нужное местами
 print(list_numbers) # финал
+# Последняя строка
